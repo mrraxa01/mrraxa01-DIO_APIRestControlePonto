@@ -6,6 +6,12 @@ Sistema desenvolvido no Bootcamp Santander - FullStack Developer na Digital Inno
 
 API REST para controle da jornada de trabalho dos colaboradores de uma empresa. Utilizado JAVA 11, Spring Boot, Hibernate Envers, Lombok e Swagger para documentação.
 
+![diagrama](assests/diagrama.png)
+
+![diagrama](assests/swagger.png)
+
+
+
 
 ```
 # Autor
